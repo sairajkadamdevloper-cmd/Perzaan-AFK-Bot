@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifesteal-S4XD.aternos.me",
-    "port": 52832,
+    "ip": "play-headsteal.aternos.me",
+    "port": 17237,
     "version": "1.21.1"
   },
   "position": {
